@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.4434bd27.css","mappings":"AAAA,iBACE,oBAAqB,CAErB,QAAS,CADT,SAEF,CACA,oBACE,oBACF","sources":["App.css"],"sourcesContent":[".card-body-stars {\n  list-style-type: none;\n  padding: 0;\n  margin: 0;\n}\n.card-body-stars > li {\n  display: inline-block;\n}\n"],"names":[],"sourceRoot":""}
